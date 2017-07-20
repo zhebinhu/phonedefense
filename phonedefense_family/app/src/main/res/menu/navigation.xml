@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_recorder"
+        android:icon="@drawable/ic_recorder"
+        android:title="@string/title_recorder" />
+
+    <item
+        android:id="@+id/navigation_protection"
+        android:icon="@drawable/ic_protect"
+        android:title="@string/title_protection" />
+
+    <item
+        android:id="@+id/navigation_bind"
+        android:icon="@drawable/ic_zxing"
+        android:title="@string/title_familybind" />
+
+</menu>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.huzb.phonedefense.Activity.ScrollingActivity">
+    <item
+        android:id="@+id/family_bind"
+        android:orderInCategory="100"
+        android:title="@string/family_binging"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contacts"
+        android:orderInCategory="100"
+        android:title="@string/contacts"
+        app:showAsAction="never"
+        android:checkable="true"/>
+</menu>

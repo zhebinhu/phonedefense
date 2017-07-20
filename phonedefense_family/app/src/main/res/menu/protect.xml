@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.huzhebin.phonedefense_family.MainActivity">
+    <item
+        android:id="@+id/family_bind"
+        android:orderInCategory="100"
+        android:title="防护等级高"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contacts"
+        android:orderInCategory="100"
+        android:title="防护等级中"
+        app:showAsAction="never"
+        android:checkable="true"/>
+</menu>

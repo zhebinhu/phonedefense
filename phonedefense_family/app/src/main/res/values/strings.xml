@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">亲情端</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">shihs</string>
+    <string name="title_recorder">录音文件</string>
+    <string name="title_protection">实时防护</string>
+    <string name="title_familybind">亲情绑定</string>
+    <string name="high_ingo">高防护等级下会自动提醒老人端所有陌生来电并赋予监听和挂断权限</string>
+    <string name="middle_ingo">中防护等级下会自动提醒老人端包含诈骗关键词的陌生来电并赋予监听和挂断权限</string>
+    <string name="low_info">低防护等级下会自动提醒老人端包含诈骗关键词的陌生来电但不能进行远程控制</string>
+    <string name="status_serving">空闲状态</string>
+    <string name="status_stopserve">未开启服务</string>
+</resources>
